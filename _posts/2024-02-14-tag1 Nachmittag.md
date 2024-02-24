@@ -32,7 +32,7 @@ Das von _Geeks for Geeks_ ist ziemlich hilfreich:
 Das Terminal von Codespace fungiert also als ... nun ja, Terminal. Aber was funktioniert als Shell?
 
 Ich erinnere mich, etwas Ähnliches wie dieses Diagramm gesehen zu haben:
-![Architektur eines Linux-systems](master/assets/architecture of linux system.png)
+<img src="master/assets/architecture of linux system.png" alt="Architektur eines Linux-systems">
 
 <a href="https://www.javatpoint.com/architecture-of-linux">Quelle</a>
 
