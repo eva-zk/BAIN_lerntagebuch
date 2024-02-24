@@ -53,7 +53,7 @@ Ich erinnere mich, etwas Ähnliches wie dieses Diagramm gesehen zu haben:
 - Echo
 
 Man sollte meinen, dass es einfach ist, aber ... (Screenshots)
-<img src="/BAIN_lerntagebuch/docs/assets/images/Screenshot_2024-02-16_(Zeilen).png.png" alt="Screenshot Zeigen erste 20 Zeilen">
+<img src="/BAIN_lerntagebuch/docs/assets/images/Screenshot_2024-02-16_(Zeilen).png" alt="Screenshot Zeigen erste 20 Zeilen">
 (Wie man es nicht machen sollte)
 <br>
 <img src="/BAIN_lerntagebuch/docs/assets/images/2_Screenshot_2024-02-20.png" alt="Screenshot im Text steckengeblieben">
