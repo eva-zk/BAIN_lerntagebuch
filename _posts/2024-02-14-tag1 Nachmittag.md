@@ -64,3 +64,10 @@ Beim Lernen der Pythongrundlagen hatte ich immer Schwierigkeiten zu verstehen, w
 Ein Entwurf für meine Erfahrungen in der ersten Lehreinheit "Technische Grundlagen"
 ![Screenshot Echo.](assets/1 Screenshot 2024-02-20.png)
 
+**4)GitHub**
+-Demo: Typischer Git Workflow
+- Fork erstellen
+- Änderung vornehmen und committen
+- Pull Request anlegen
+- Tagesbuch starten
+
