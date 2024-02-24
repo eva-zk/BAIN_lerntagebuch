@@ -53,14 +53,14 @@ Ich erinnere mich, etwas Ähnliches wie dieses Diagramm gesehen zu haben:
 - Echo
 
 **Man sollte meinen, dass es einfach ist, aber ... (Fehlerbeispiele**
-<br>1<br>
+<br>**1**<br>
 <img src="/BAIN_lerntagebuch/docs/assets/images/Screenshot_2024-02-16_(Zeilen).png" alt="Screenshot Zeigen erste 20 Zeilen">
 (Wie man es nicht machen sollte)
-<br>2<br>
+<br>**2**<br>
 Wie komme ich da raus? 
 <img src="/BAIN_lerntagebuch/docs/assets/images/2_Screenshot_2024-02-20.png" alt="Screenshot im Text steckengeblieben">
 (^ steht für die Steuerungstaste)
-<br>3<br>
+<br>**3**<br>
 Beim Lernen der Pythongrundlagen hatte ich immer Schwierigkeiten zu verstehen, wann Buchstaben als Beispiel verwendet werden und wann sie Teil eines Befehls sind. Ähnlich hier, kann ich nur NAME verwenden oder kann ich auch etwas anderes verwenden? Antwort: Ich kann, aber vergiss nicht, dass du bei der Verwendung von Nicht-Grossbuchstaben vorsichtig sein musst.
 <img src="/BAIN_lerntagebuch/docs/assets/images/1_Screenshot_2024-02-20.png" alt="Screenshot Echo Übung">
 
