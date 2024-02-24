@@ -9,6 +9,7 @@ Ich werde mich hier auf meine Erfahrungen konzentrieren.
 
 **1) GitHub**
    - Timeout von Codespaces auf 240 Minuten erhöhen.
+
 **2) Grundlagen der Unix Shell** (<a href="https://librarycarpentry.org/lc-shell/02-navigating-the-filesystem.html">Library Carpentry Lesson 2: Navigating the filesystem</a>)
 
 (Wieder-)erlernte Befehle
@@ -23,7 +24,7 @@ Was ist eine Shell? Aus _Library Carpentry_:
 <br>"The shell is a program that is usually launched on your computer much in the way you would start any other program."
 <br>"It /Shell/ is the primary interface used on Linux and Unix-based systems, such as macOS, and can be installed optionally on other operating systems such as Windows." <a href="https://librarycarpentry.org/lc-shell/01-intro-shell.html">Quelle</a>
 
-**TO-DOs:** Ich bin mir immer noch nicht sicher, ob ich verstehe, was Shell im Verbund mit Codespace ist. Unterschiede zwischen Shell, (command-line) Interface und einem Programm.
+***TO-DOs:*** Ich bin mir immer noch nicht sicher, ob ich verstehe, was Shell im Verbund mit Codespace ist. Unterschiede zwischen Shell, (command-line) Interface und einem Programm.
 
 Das von _Geeks for Geeks_ ist ziemlich hilfreich: 
 "Ein Terminal ist ein Programm, mit dem Sie eine Shell ausführen können." (<a href="https://www.geeksforgeeks.org/difference-between-terminal-console-shell-and-command-line/">Quelle</a>)
@@ -51,11 +52,15 @@ Ich erinnere mich, etwas Ähnliches wie dieses Diagramm gesehen zu haben:
 - history, Pfeil nach oben drücken, ctrl + r, ctrl + c zum Speichern der History
 - Echo
 
-Man sollte meinen, dass es einfach ist, aber ... (wie man es nicht machen sollte Screenshot):
+Man sollte meinen, dass es einfach ist, aber ... (Screenshots)
 
-
-
-Ein Entwurf für meine Erfahrungen in der ersten Lehreinheit "Technische Grundlagen"
-![Screenshot Echo Versuch1.](assets/1 Screenshot 2024-02-20.png)
+![Screenshot Es ist richtig, sich zu irren.](assets/Screenshot 2024-02-16 (Zeilen).png
+(Wie man es nicht machen sollte)
 <br>
 ![Screenshot Echo Versuch2.](assets/2 Screenshot 2024-02-20.png)
+Wie komme ich da raus? (^ steht für die Steuerungstaste)
+<br>
+Beim Lernen der Pythongrundlagen hatte ich immer Schwierigkeiten zu verstehen, wann Buchstaben als Beispiel verwendet werden und wann sie Teil eines Befehls sind. Ähnlich hier, kann ich nur NAME verwenden oder kann ich auch etwas anderes verwenden? Antwort: Ich kann, aber vergiss nicht, dass du bei der Verwendung von Nicht-Großbuchstaben vorsichtig sein musst.
+Ein Entwurf für meine Erfahrungen in der ersten Lehreinheit "Technische Grundlagen"
+![Screenshot Echo.](assets/1 Screenshot 2024-02-20.png)
+
