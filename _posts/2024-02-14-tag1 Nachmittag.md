@@ -53,15 +53,14 @@ Ich erinnere mich, etwas Ähnliches wie dieses Diagramm gesehen zu haben:
 - Echo
 
 Man sollte meinen, dass es einfach ist, aber ... (Screenshots)
-
-![Screenshot Es ist richtig, sich zu irren.](assets/Screenshot 2024-02-16 (Zeilen).png
+<img src="/assets/Screenshot 2024-02-16 (Zeilen).png" alt="Screenshot Zeigen erste 20 Zeilen">
 (Wie man es nicht machen sollte)
 <br>
-![Screenshot Echo Versuch2.](assets/2 Screenshot 2024-02-20.png)
+<img src="/assets/2 Screenshot 2024-02-20.png" alt="Screenshot im Text steckengeblieben">
 Wie komme ich da raus? (^ steht für die Steuerungstaste)
 <br>
 Beim Lernen der Pythongrundlagen hatte ich immer Schwierigkeiten zu verstehen, wann Buchstaben als Beispiel verwendet werden und wann sie Teil eines Befehls sind. Ähnlich hier, kann ich nur NAME verwenden oder kann ich auch etwas anderes verwenden? Antwort: Ich kann, aber vergiss nicht, dass du bei der Verwendung von Nicht-Grossbuchstaben vorsichtig sein musst.
-![Screenshot Echo.](assets/1 Screenshot 2024-02-20.png)
+<img src="/assets/1 Screenshot 2024-02-20.png" alt="Screenshot Echo Übung">
 
 **4)GitHub**
 -Demo: Typischer Git Workflow
