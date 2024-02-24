@@ -52,7 +52,7 @@ Ich erinnere mich, etwas Ähnliches wie dieses Diagramm gesehen zu haben:
 - history, Pfeil nach oben drücken, ctrl + r, ctrl + c zum Speichern der History
 - Echo
 
-**Man sollte meinen, dass es einfach ist, aber ... (Fehlerbeispiele**
+**Man sollte meinen, dass es einfach ist, aber ... (Fehlerbeispiele)**
 <br>**1**<br>
 <img src="/BAIN_lerntagebuch/docs/assets/images/Screenshot_2024-02-16_(Zeilen).png" alt="Screenshot Zeigen erste 20 Zeilen">
 (Wie man es nicht machen sollte)
