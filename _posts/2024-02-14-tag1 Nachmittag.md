@@ -7,9 +7,9 @@ Ich werde mich hier auf meine Erfahrungen konzentrieren.
 
 **Überblick** Was haben wir getan/besprochen?
 
-1) GitHub
+**1) GitHub**
    - Timeout von Codespaces auf 240 Minuten erhöhen.
-2) Grundlagen der Unix Shell (<a href="https://librarycarpentry.org/lc-shell/02-navigating-the-filesystem.html">Library Carpentry Lesson 2: Navigating the filesystem</a>)
+**2) Grundlagen der Unix Shell** (<a href="https://librarycarpentry.org/lc-shell/02-navigating-the-filesystem.html">Library Carpentry Lesson 2: Navigating the filesystem</a>)
 
 (Wieder-)erlernte Befehle
 - pwd (wo bin ich)
@@ -31,14 +31,30 @@ Das von _Geeks for Geeks_ ist ziemlich hilfreich:
 Das Terminal von Codespace fungiert also als ... nun ja, Terminal. Aber was funktioniert als Shell?
 
 Ich erinnere mich, etwas Ähnliches wie dieses Diagramm gesehen zu haben:
+![Architektur eines Linux-systems](assets/architecture of linux system.png)
 
-<a href="https://www.javatpoint.com/architecture-of-linux">Quelle</a>)
+<a href="https://www.javatpoint.com/architecture-of-linux">Quelle</a>
 
  Und es macht irgendwie Sinn, wenn ich an meinem eigenen Computer arbeite. Aber wenn ich GitHub&Codespace benutze, ist mein Gehirn immer noch vernebelt, wenn ich darüber nachdenke, was der Kernel und die Shell sind, wo sie sind und wie sie funktionieren.
 
-4) Grundlagen der Unix Shell (<a href="https://librarycarpentry.org/lc-shell/03-working-with-files-and-folders.html">Library Carpentry Lesson 3: Working with files and directories</a>)
+**3) Grundlagen der Unix Shell** (<a href="https://librarycarpentry.org/lc-shell/03-working-with-files-and-folders.html">Library Carpentry Lesson 3: Working with files and directories</a>)
    
-   Library Carpentry Lesson zur Unix Shell 
+(Wieder-)erlernte Befehle: 
+
+- mkdir (Verzeichnisse erstellen)
+- tab (Anfang eintippen und dann Tabulator-Taste drücken, um die Finger zu schonen und weniger Zeit zu verlieren)
+- cat (wenn man längere Texte im Vorbeigehen mag)
+- head, tail + "Dateiname" + Anzahl der Zeilen
+- head *.txt (um die Köpfe aller Dateien mit dieser Endung zu erhalten)
+- ? findet ein Zeichen, * 0 oder mehr Zeichen
+- Kopieren, Umbenennen, Verschieben von Dateien in ein Verzeichnis
+- history, Pfeil nach oben drücken, ctrl + r, ctrl + c zum Speichern der History
+- Echo
+
+Man sollte meinen, dass es einfach ist, aber ... (wie man es nicht machen sollte Screenshot):
+
+
+
 Ein Entwurf für meine Erfahrungen in der ersten Lehreinheit "Technische Grundlagen"
 ![Screenshot Echo Versuch1.](assets/1 Screenshot 2024-02-20.png)
 <br>
