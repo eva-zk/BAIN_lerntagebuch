@@ -32,7 +32,7 @@ Das von _Geeks for Geeks_ ist ziemlich hilfreich:
 Das Terminal von Codespace fungiert also als ... nun ja, Terminal. Aber was funktioniert als Shell?
 
 Ich erinnere mich, etwas Ähnliches wie dieses Diagramm gesehen zu haben:
-![Architektur eines Linux-systems](assets/architecture of linux system.png)
+![Architektur eines Linux-systems](BAIN_lerntagebuch/assets/architecture of linux system.png)
 
 <a href="https://www.javatpoint.com/architecture-of-linux">Quelle</a>
 
@@ -60,8 +60,7 @@ Man sollte meinen, dass es einfach ist, aber ... (Screenshots)
 ![Screenshot Echo Versuch2.](assets/2 Screenshot 2024-02-20.png)
 Wie komme ich da raus? (^ steht für die Steuerungstaste)
 <br>
-Beim Lernen der Pythongrundlagen hatte ich immer Schwierigkeiten zu verstehen, wann Buchstaben als Beispiel verwendet werden und wann sie Teil eines Befehls sind. Ähnlich hier, kann ich nur NAME verwenden oder kann ich auch etwas anderes verwenden? Antwort: Ich kann, aber vergiss nicht, dass du bei der Verwendung von Nicht-Großbuchstaben vorsichtig sein musst.
-Ein Entwurf für meine Erfahrungen in der ersten Lehreinheit "Technische Grundlagen"
+Beim Lernen der Pythongrundlagen hatte ich immer Schwierigkeiten zu verstehen, wann Buchstaben als Beispiel verwendet werden und wann sie Teil eines Befehls sind. Ähnlich hier, kann ich nur NAME verwenden oder kann ich auch etwas anderes verwenden? Antwort: Ich kann, aber vergiss nicht, dass du bei der Verwendung von Nicht-Grossbuchstaben vorsichtig sein musst.
 ![Screenshot Echo.](assets/1 Screenshot 2024-02-20.png)
 
 **4)GitHub**
