@@ -22,5 +22,6 @@ Ich werde mich hier auf meine Erfahrungen konzentrieren.
 - Codespace starten und beenden (plus Änderung der aktiven Zeit)
 <br><br> **Offene Fragen:** 
 1) Nicht ganz klar: was zählt als 1 Lehreinheit, zählt das, was wir am 14.2 gemacht haben, als 2 oder als 1? Und Einführung?
+   
 2) Da es mir leichter fällt, zu löschen als hinzuzufügen, wenn ich neue Informationen habe (Zeit, Erfahrung), und es einfacher ist, zu definieren, was wichtig und neu ist, wäre es in Ordnung, zu Beginn des Semesters längere Beiträge zu schreiben? Mit dem Versprechen, dass ich den "Weedwacker" regelmässig raushole?
 
