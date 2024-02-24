@@ -32,7 +32,7 @@ Das von _Geeks for Geeks_ ist ziemlich hilfreich:
 Das Terminal von Codespace fungiert also als ... nun ja, Terminal. Aber was funktioniert als Shell?
 
 Ich erinnere mich, etwas Ähnliches wie dieses Diagramm gesehen zu haben:
-<img src="../assets/architecture_of_linux_system.png" alt="Architektur eines Linux-systems">
+<img src="assets/architecture_of_linux_system.png" alt="Architektur eines Linux-systems">
 
 <a href="https://www.javatpoint.com/architecture-of-linux">Quelle</a>
 
@@ -53,14 +53,14 @@ Ich erinnere mich, etwas Ähnliches wie dieses Diagramm gesehen zu haben:
 - Echo
 
 Man sollte meinen, dass es einfach ist, aber ... (Screenshots)
-<img src="/assets/Screenshot_2024-02-16_(Zeilen).png" alt="Screenshot Zeigen erste 20 Zeilen">
+<img src="assets/Screenshot_2024-02-16_(Zeilen).png" alt="Screenshot Zeigen erste 20 Zeilen">
 (Wie man es nicht machen sollte)
 <br>
-<img src="/assets/2_Screenshot_2024-02-20.png" alt="Screenshot im Text steckengeblieben">
+<img src="assets/2_Screenshot_2024-02-20.png" alt="Screenshot im Text steckengeblieben">
 Wie komme ich da raus? (^ steht für die Steuerungstaste)
 <br>
 Beim Lernen der Pythongrundlagen hatte ich immer Schwierigkeiten zu verstehen, wann Buchstaben als Beispiel verwendet werden und wann sie Teil eines Befehls sind. Ähnlich hier, kann ich nur NAME verwenden oder kann ich auch etwas anderes verwenden? Antwort: Ich kann, aber vergiss nicht, dass du bei der Verwendung von Nicht-Grossbuchstaben vorsichtig sein musst.
-<img src="/assets/1_Screenshot_2024-02-20.png" alt="Screenshot Echo Übung">
+<img src="assets/1_Screenshot_2024-02-20.png" alt="Screenshot Echo Übung">
 
 **4)GitHub**
 -Demo: Typischer Git Workflow
