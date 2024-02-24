@@ -10,7 +10,32 @@ Ich werde mich hier auf meine Erfahrungen konzentrieren.
 1) GitHub
    - Timeout von Codespaces auf 240 Minuten erhöhen.
 2) Grundlagen der Unix Shell (<a href="https://librarycarpentry.org/lc-shell/02-navigating-the-filesystem.html">Library Carpentry Lesson 2: Navigating the filesystem</a>)
-3) 
+
+(Wieder-)erlernte Befehle
+- pwd (wo bin ich)
+- ls (Ausdruck des gesamten Inhalts des aktuellen Verzeichnisses)
+- ls -l und ls -lh
+- cd, cd .. (Verzeichniswechsel)
+
+Keine grossen Probleme. Wir haben ähnliche Dinge getan, als wir die Grundlagen der Linux-Shell lernten und als ich Terminal auf dem Mac benutzten musste.
+
+Was ist eine Shell? Aus _Library Carpentry_:
+<br>"The shell is a program that is usually launched on your computer much in the way you would start any other program."
+<br>"It /Shell/ is the primary interface used on Linux and Unix-based systems, such as macOS, and can be installed optionally on other operating systems such as Windows." <a href="https://librarycarpentry.org/lc-shell/01-intro-shell.html">Quelle</a>
+
+**TO-DOs:** Ich bin mir immer noch nicht sicher, ob ich verstehe, was Shell im Verbund mit Codespace ist. Unterschiede zwischen Shell, (command-line) Interface und einem Programm.
+
+Das von _Geeks for Geeks_ ist ziemlich hilfreich: 
+"Ein Terminal ist ein Programm, mit dem Sie eine Shell ausführen können." (<a href="https://www.geeksforgeeks.org/difference-between-terminal-console-shell-and-command-line/">Quelle</a>)
+
+Das Terminal von Codespace fungiert also als ... nun ja, Terminal. Aber was funktioniert als Shell?
+
+Ich erinnere mich, etwas Ähnliches wie dieses Diagramm gesehen zu haben:
+
+<a href="https://www.javatpoint.com/architecture-of-linux">Quelle</a>)
+
+ Und es macht irgendwie Sinn, wenn ich an meinem eigenen Computer arbeite. Aber wenn ich GitHub&Codespace benutze, ist mein Gehirn immer noch vernebelt, wenn ich darüber nachdenke, was der Kernel und die Shell sind, wo sie sind und wie sie funktionieren.
+
 4) Grundlagen der Unix Shell (<a href="https://librarycarpentry.org/lc-shell/03-working-with-files-and-folders.html">Library Carpentry Lesson 3: Working with files and directories</a>)
    
    Library Carpentry Lesson zur Unix Shell 
