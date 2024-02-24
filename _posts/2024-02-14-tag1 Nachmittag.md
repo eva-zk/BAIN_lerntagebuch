@@ -60,7 +60,7 @@ Man sollte meinen, dass es einfach ist, aber ... (Screenshots)
 Wie komme ich da raus? (^ steht für die Steuerungstaste)
 <br>
 Beim Lernen der Pythongrundlagen hatte ich immer Schwierigkeiten zu verstehen, wann Buchstaben als Beispiel verwendet werden und wann sie Teil eines Befehls sind. Ähnlich hier, kann ich nur NAME verwenden oder kann ich auch etwas anderes verwenden? Antwort: Ich kann, aber vergiss nicht, dass du bei der Verwendung von Nicht-Grossbuchstaben vorsichtig sein musst.
-<img src="/assets/1 Screenshot 2024-02-20.png" alt="Screenshot Echo Übung">
+<img src="/assets/1_Screenshot_2024-02-20" alt="Screenshot Echo Übung">
 
 **4)GitHub**
 -Demo: Typischer Git Workflow
