@@ -2,6 +2,8 @@
 title: "Wo bin ich gestartet? Was erwarte ich?"
 date: 2024-02-14
 ---
+Was sind meine Erfahrungen als Bibliothekarin, Buchleserin, Studentin und meine Erwartungen an BAIN?
+
 **Erfahrung als Bibliothekarin:** 5 Jahre Arbeit in der grössten offenen Bibliothek in Ljubljana, Slowenien, als Bibliothekarin. Arbeit mit unglaublich alten dos-basierten Systemen für die Ausleihe und Rückgabe von Medien (alles nur über Befehle, Tastenkombinationen, Tastatur zugänglich) und einem nationalen Opac-System für die Recherche. Hilfe für unerfahrene Bibliotheksbenutzer (Kinder und Senioren) bei sehr grundlegenden Informationen (Computerbenutzung, Browsing, Scannen, Drucken ua.). Schwierigkeiten bei der Kommunikation mit dem IT-Personal, um unsere Fehler oder Systemfehler zu beheben
 
 **Erfahrung der Buchleserin:** Benutzererfahrung mit Swisscovery.
