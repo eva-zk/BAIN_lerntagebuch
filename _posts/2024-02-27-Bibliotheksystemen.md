@@ -2,7 +2,8 @@
 title: "Einheit 3: Funktion und Aufbau von Bibliothekssystemen"
 date: 2024-02-27
 ---
-Weitere Informationen erhältst du über den Link: <a href="https://pad.gwdg.de/EC9WU7DITxiK1ciMll3ZOw?view"</a>
+Weitere Informationen erhältst du über den Link: 
+<a href="https://pad.gwdg.de/EC9WU7DITxiK1ciMll3ZOw?view">BAIN HedgeDoc</a>
 Ich werde mich hier auf meine Erfahrungen konzentrieren. 
 
 **Überblick** Was haben wir getan/besprochen?
