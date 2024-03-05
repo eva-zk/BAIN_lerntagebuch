@@ -1,5 +1,5 @@
 ---
-title: "Einheit 1: Technische Grundlagen 1/2 (Vormittag)"
+title: "Einheit 1: Technische Grundlagen 1/2"
 date: 2024-02-14
 ---
 
