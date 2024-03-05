@@ -70,3 +70,5 @@ Es scheint sehr intuitiv zu sein, die Felder sind so beschrieben und aufgebaut, 
 Ich würde mich fragen, wie schwierig es wäre, einen neuen Nutzertyp hinzuzufügen, wenn wir jemanden haben, der halbtags arbeitet, aber auch Student ist, oder halb im Ruhestand ... Und ob jemand, der zu einem bestimmten Nutzertyp gehört, die Nutzung bestimmter Medien einschränken würde (keine Erwachsenenbücher für Kinder).
 
 Mir ist auch aufgefallen, dass einige meiner früheren Suchen bereits vorhanden waren, obwohl ich Koha zum ersten Mal benutze. Es wäre also interessant zu wissen, ob dies erwünscht ist, da es zu peinlichen Situationen führen kann.
+
+<img src="/BAIN_lerntagebuch/docs/assets/images/3_Screenshot_2024-02-27.png" alt="Screenshot Koha Suchfeld">
