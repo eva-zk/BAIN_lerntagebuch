@@ -1,5 +1,5 @@
 ---
-title: "Einheit 1.2: Technische Grundlagen 2/2 (Nachmittag)"
+title: "Einheit 2: Technische Grundlagen 2/2"
 date: 2024-02-14
 ---
 Weitere Informationen erhältst du über den Link: <a href="https://pad.gwdg.de/H-dlBlKaS9-xqX0ZH8fqcw#">BAIN HedgeDoc</a>
