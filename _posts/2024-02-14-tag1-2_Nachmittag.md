@@ -83,7 +83,7 @@ Dann habe ich versucht:
 - Überprüfen, ob die hinzugefügten Bilder mit png oder PNG enden (war ok).
 - Überprüfen, ob die Bildnamen gleich geschrieben sind (Gross- und Kleinschreibung beachten) (war ok, Um sicher zu gehen, habe ich die Leerzeichen in den Namen gelöscht und sie in "_" geändert).
 
-Ich kam an einen Punkt, an dem ich die Bilder bereits in der Vorschau sehen konnte, aber auf der Website wurde immer noch die alternative Beschreibung verwendet. Dann habe ich eine Quelle gefunden, die die Lösung bereitstellte:<a href="https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html">tomcam adding images/a>.
+Ich kam an einen Punkt, an dem ich die Bilder bereits in der Vorschau sehen konnte, aber auf der Website wurde immer noch die alternative Beschreibung verwendet. Dann habe ich eine Quelle gefunden, die die Lösung bereitstellte:<a href="https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html">tomcam adding images</a>.
 
 Also fügte ich schliesslich die Ordner docs/assets/images hinzu und änderte die Pfadangaben. Der eindeutige Nachteil dieses Prozesses waren eine Menge E-Mails und etwa 70 (!) Commits mit demselben Namen (ich war zu faul, ihn zu ändern), die keinen Zweck erfüllten. Sie waren nur das Ergebnis davon, dass ich verschiedene Dinge ausprobierte, in der Hoffnung, sie würden funktionieren.
 
