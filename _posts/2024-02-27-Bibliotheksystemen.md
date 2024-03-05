@@ -7,6 +7,7 @@ Weitere Informationen erhältst du über den Link:
 Ich werde mich hier auf meine Erfahrungen konzentrieren. 
 
 **Überblick** Was haben wir getan/besprochen?
+
 **1) Retro, Fragen**
 Lerntagebücher: Man kann seine eigenen Prioritäten setzen und das vertiefen, was man möchte (das ist eigentlich erwünscht). Aber man muss die Grundlagen der gesamten Vorlesungen abdecken, alle Lernihalte erwähnen (nicht nur eines der Unterkapitel).
 
@@ -24,7 +25,9 @@ Was kann MARC noch nicht? /..???/
 
 Dublin Core: schönes, kleines Format. 15 Felder namens Titel, Datum, Ersteller, Verlag, die auf der ersten Blick leichter zu verstehen sind. Das kann man gut mit MARC 21 vergleichen.
 
-**Übung** Vergleich von Formaten Dublin Core (DC) vs MARC 21 (Marc)
+**Übung** Vergleich von Formaten
+<a href="https://swisscovery.slsp.ch/view/sru/41SLSP_NETWORK?version=1.2&operation=searchRetrieve&query=title=einstein&recordSchema=marcxml">MARC 21 (Marc)</a> vs
+<a href="https://swisscovery.slsp.ch/view/sru/41SLSP_NETWORK?version=1.2&operation=searchRetrieve&query=title=einstein&recordSchema=dc">Dublin Core (DC)</a>
 
 Was sehe ich mir an? Mehrere Bücher. Es scheint auch einen Artikel dazwischen zu geben. 
 Erste Eindrücke:
@@ -49,7 +52,7 @@ Wir verwenden Datenformat und Metadaten manchmal als Synonyme. Marc ist ein bibl
 Zusätzliche Regelwerke, die bei der Katalogisierung verwendet werden, wir müssen darauf achten, wie wir Informationen schreiben (Titel zum Beispiel). Es gibt internationale Unterschiede, Vorname, Nachname oder Nachname zuerst und dann Vorname. Datumsformat (USA vs EU). Um Fehler zu vermeiden, muss man wissen, welche Form benötigt wird = Regeln kennen und respektieren.
 
 **3) Koha**
-
+<a href="https://koha-community.org//">Koha Community</a>
 Website ansehen, gemeinsames Projekt.
 
 Statistik: Wie gesund ist das Projekt? Wird es in 2 Jahren veraltet sein, weil niemand mehr daran arbeitet? Software-Evaluierung, einige nette Grafiken, die uns sagen, ob es sich lohnt, Ressourcen in das Erlernen der Nutzung und die Nutzung eines Open-Source-Produkts zu investieren. Nicht viele offene Projekte haben 20 Leute, die daran arbeiten, wie dieses hier.
@@ -58,9 +61,8 @@ Es gibt ein Handbuch, Kontakt mit der Gemeinschaft, so dass, wenn es etwas brauc
 
 Vorteil von Koha ist, dass es viele Demo-Installationen gibt, die es uns ermöglichen, Zeit und Platz auf der Festplatte zu sparen.
 
-
-
 **Übung**
+<a href="https://koha.adminkuhn.ch:8443/">Koha Demo</a>
 
 Über Admin-Schnittstelle, umfangreiche Rechte, sog. Superlibrarian. Ansonsten werden einzelne Funktionen je nach Benutzertyp eingestellt.
 
