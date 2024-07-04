@@ -5,10 +5,8 @@ date: 2024-02-14
 Weitere Informationen erhältst du über den Link: <a href="https://pad.gwdg.de/H-dlBlKaS9-xqX0ZH8fqcw#">BAIN HedgeDoc</a>
 Ich werde mich hier auf meine Erfahrungen konzentrieren. 
 
-**Überblick** Was haben wir getan/besprochen?
-
 **1) GitHub**
-   - Timeout von Codespaces auf 240 Minuten erhöhen.
+   - Timeout von Codespaces auf 240 Minuten erhöhen. Wurde gemacht.
 
 **2) Grundlagen der Unix Shell** (<a href="https://librarycarpentry.org/lc-shell/02-navigating-the-filesystem.html">Library Carpentry Lesson 2: Navigating the filesystem</a>)
 
@@ -18,7 +16,7 @@ Ich werde mich hier auf meine Erfahrungen konzentrieren.
 - ls -l und ls -lh
 - cd, cd .. (Verzeichniswechsel)
 
-Keine grossen Probleme. Wir haben ähnliche Dinge getan, als wir die Grundlagen der Linux-Shell lernten und als ich Terminal auf dem Mac benutzten musste.
+Keine grossen Probleme. Wir haben ähnliche Dinge getan, als wir die Grundlagen der Linux-Shell lernten und als ich Terminal auf dem Mac verwendete.
 
 Was ist eine Shell? Aus _Library Carpentry_:
 <br>"The shell is a program that is usually launched on your computer much in the way you would start any other program."
@@ -65,7 +63,7 @@ Beim Lernen der Pythongrundlagen hatte ich immer Schwierigkeiten zu verstehen, w
 <img src="/BAIN_lerntagebuch/docs/assets/images/1_Screenshot_2024-02-20.png" alt="Screenshot Echo Übung">
 
 **4)GitHub**
--Demo: Typischer Git Workflow
+- Demo: Typischer Git Workflow
 - Fork erstellen
 - Änderung vornehmen und committen
 - Pull Request anlegen
