@@ -1,6 +1,6 @@
 ---
 title: "Aufgabe zur Einheit 4: Vergleich von ArchivesSpace und Access to Memory (AtoM)"
-date: 2024-03-26
+date: 2024-03-12
 ---
 Weitere Informationen erhältst du über den Link: 
 <a href="https://pad.gwdg.de/JmDfo4JOSQuF12mGPmm7IA#">BAIN HedgeDoc</a>
