@@ -1,28 +1,27 @@
 ---
-title: "HA zur Einheit 4: ArchivesSpace vs Access to Memory"
-date: 2024-03-12
+title: "Aufgabe zur Einheit 4: Vergleich von ArchivesSpace und Access to Memory (AtoM)"
+date: 2024-03-25
 ---
 Weitere Informationen erhältst du über den Link: 
 <a href="https://pad.gwdg.de/JmDfo4JOSQuF12mGPmm7IA#">BAIN HedgeDoc</a>
 
-ArchivesSpace (AS) vs Access to Memory (AtoM)
+**ArchivesSpace (AS) vs Access to Memory (AtoM)**
 
-Beide sind Open-Source-Anwendungen.
+**1 Was ich gemacht habe:**
+- Erhebung von Basisdaten über die beiden Open-Source-Anwendungen
+- durchzuklicken (alle Optionen rechts und links vom Suchfeld)
+- "accession record", "place" und "subject" hinzugefügt.
 
-Was ich gemacht habe: 
-- Ich habe versucht, alle Optionen rechts und links vom Suchfeld durchzuklicken.
-- Ich habe "accession record", "place" und "subject" hinzugefügt.
+**2 Beobachtungen:**
 
-Beobachtungen: 
+- Anstatt den Mauszeiger zu bewegen, fügt AtoM einfach Informationen neben dem Feld ein, in das Sie Daten eingeben müssen. Das macht den ganzen Prozess ein wenig entspannter, keine zusätzlichen Fenster, die wie Pop-ups aussehen, nur einfache Textfelder. Der Nachteil ist jedoch, dass man mehr Platz braucht und daher mehr scrollen muss. Ich denke auch, dass es weniger übersichtlich ist, weil es schwieriger ist, zwischen dem Namen/Titel des Feldes und den Beschreibungen zu unterscheiden.
+- AS ändert das angegebene Datum tatsächlich in der gewünschten Form (ich schrieb 20/01/2020 und es wurde beim Speichern in J-M-T geändert). AtoM scheint dies nicht zu tun.
+- Es scheint, dass AS mehr Felder bietet, was mehr Möglichkeiten für eine detaillierte Archivierung und Speicherung von Informationen über Akzessionen bedeutet. Aber in AtoM kann man über "Admin" zusätzliche Änderungen in den Feldern vornehmen, so dass ich mir nicht sicher bin, wie gross der Unterschied ist.
+- Die AtoM-Schnittstelle bietet mehrere Sprachen: Englisch, Französisch, Spanisch, Niederländisch, Portugiesisch, das ist ein Plus.
+- AtoM: Mir gefällt, dass man Institutionen, Artikel usw. in die Zwischenablage einfügen kann, um sie schnell und einfach zugänglich zu machen. Leider muss man noch den richtigen Entitätstyp auswählen, sonst bekommt man keine Ergebnisse (siehe folgender Screenshot).
+<img src="/BAIN_lerntagebuch/docs/assets/images/7_Screenshot_2024-03-25.png" alt="Screenshot Ein Artikel Zwischenablage">
 
-- Anstelle der Hovering-Funktion fügt AtoM einfach Informationen neben dem Feld hinzu, in das man Daten eingeben muss. Das macht den ganzen Prozess etwas ruhiger, keine zusätzlichen Fenster, die Pop-ups ähneln, sondern nur einfache Textfelder. Der Nachteil dabei ist allerdings, dass man mehr Platz braucht und daher mehr scrollen muss. Ich denke auch, dass es weniger übersichtlich ist, weil es schwieriger ist, Name/Titel des Feldes und Beschreibungen zu unterscheiden.
-- AS ändert tatsächlich das angegebene Datum in der gewünschten Form (schrieb 20.01.2020 und es wurde beim Speichern in J-M-T geändert). AtoM scheint dies nicht zu tun.
-- Es scheint, als ob AS mehr Felder anbietet, was mehr Möglichkeiten zur detaillierten Archivierung und Speicherung von Informationen über Akzessionen bedeutet. Aber in Atom kann man zusätzliche Änderungen in den Feldern über "Admin" vornehmen, daher bin ich mir nicht sicher, wie gross der Unterschied ist.
-- Die Oberfläche von AtoM bietet mehrere Sprachen an: Englisch, Französisch, Spanisch, Niederländisch, Portugiesisch
-- AtoM: Mir gefällt, dass man Institutionen, Artikel etc. in die "Clipboard" (Zwischenablage) einfügen kann, um sie schnell und einfach zugänglich zu machen. Leider muss man trotzdem den richtigen Entitätstyp wählen, sonst erhält man keine Ergebnisse (siehe folgenden Printscreen).
-<img src="/BAIN_lerntagebuch/docs/assets/images/7_Screenshot_2024-03-25.png" alt="Screenshot One item Clipboard">
-
-Probleme/Lernerfahrungen:
+**3 Probleme/Lernerfahrungen:**
 
 1) Ich habe zwei Akzessionsdatensätze über die Demo-Seite von AtoM erstellt. 
 - Beim ersten füllte ich nur 4 Informationen aus (Akzessionsnummer, Akquisitionsdatum, unmittelbare Soruce der Akquisition und Standortinformationen) und konnte ihn speichern und wiederfinden, als ich auf "Verwalten" klickte und später einen Titel hinzufügte und ihn erneut speichern konnte.
@@ -33,7 +32,7 @@ Ich habe auch versucht, die XML-Datei mit The Prudence Wayland-Smith Papers von 
 
 “PLEASE NOTE: For security reasons, uploads have been disabled on this site. If you would like to test uploads, we suggest you consider setting up a local testing environment, using our Vagrant box - more information can be found on our website in the Administrator's manual - look for "Using Vagrant.""
 (<a href="https://demo.accesstomemory.org/help">Quelle</a>)
-Ich vermute also, dass dies einfach nicht funktionieren soll, so dass es schwierig ist, dies zu überprüfen/testen/anschauen.
+Ich vermute also, dass dies einfach nicht funktionieren soll, deswegen ist es schwierig, dies zu überprüfen/testen/anschauen.
 
 3) Nach ca. 20 Minuten Nutzung musste ich mich erneut anmelden. Es könnte daran liegen, dass die Verbindung unterbrochen wurde oder dass in diesem Moment Dinge gelöscht/neu angelegt wurden. Mein Eintrag wurde gelöscht, 2 andere, die vor meinem Eintrag erstellt wurden, wurden nicht gelöscht, was sehr interessant ist.
 
@@ -41,7 +40,7 @@ Ich vermute also, dass dies einfach nicht funktionieren soll, so dass es schwier
 
 5) Die Option neben einer Demo "Durchsuchen" verstehe ich nicht ganz. Ich bin mir nicht sicher, wie diese Elemente hinzugefügt wurden, was ist die Logik, die Hierarchie. Es ist schön, dass man nach Berufen von Personen suchen kann. 
 
-6) Die Suchfunktion hat noch ein weiteres Problem (oder ist es ein Feature?): Ich habe Ljubljana als Ort hinzugefügt. Als ich in ein Suchfeld ging und begann, Ljubljana zu schreiben, wurde bei "Lju" bereits Ljubljana als Ort vorgeschlagen und ich konnte darauf klicken. Wenn ich aber Ljubljana in das Suchfeld schrieb und dann die Eingabetaste drückte, erhielt ich "keine Ergebnisse" (siehe folgende Printscreens).
+6) Die Suchfunktion hat noch ein weiteres Problem (oder ist es ein Feature?): Ich habe Ljubljana als Ort hinzugefügt. Als ich in ein Suchfeld ging und begann, Ljubljana zu schreiben, wurde bei "Lju" bereits Ljubljana als Ort vorgeschlagen und ich konnte darauf klicken. Wenn ich aber Ljubljana (ganze Wort)in das Suchfeld schrieb und dann die Eingabetaste drückte, erhielt ich "keine Ergebnisse" (siehe folgende Printscreens).
    
 <img src="/BAIN_lerntagebuch/docs/assets/images/8_Screenshot_2024-03-25.png" alt="Screenshot One item Clipboard">
 
