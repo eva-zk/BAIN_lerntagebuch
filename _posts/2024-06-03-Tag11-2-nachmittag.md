@@ -30,7 +30,7 @@ Das erinnert mich an ein Gespräch, das wir in einem der Kurse hatten, in dem wi
 - nicht fähig ist, sie zu verarbeiten, weil das zum Denken und Verstehen erforderliche Wissen fehlt;
 - und schliesslich kann man sich nicht entscheiden, was man lesen soll. Ich möchte lieber die richtigen Daten zur richtigen Zeit haben, als ständig alles zur Verfügung zu haben.
 
- Als ich las und die Keynotes von Rob Sanderson für 2018 hörte, war ich angenehm überrascht, dass sie sich mit Fragen des Vertrauens und der Nützlichkeit von Inhalten für bestimmte Gruppen/Typen von Menschen befassen <a href=" https://linked.art/loud/">dies<a>.
+ Als ich las und die Keynotes von Rob Sanderson für 2018 hörte, war ich angenehm überrascht, dass sie sich mit Fragen des Vertrauens und der Nützlichkeit von Inhalten für bestimmte Gruppen/Typen von Menschen befassen (<a href=" https://linked.art/loud/">Quelle<a>).
 
 **OpenRefine und Wikidata**
 
