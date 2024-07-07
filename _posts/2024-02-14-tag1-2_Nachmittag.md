@@ -3,7 +3,6 @@ title: "Einheit 2: Technische Grundlagen 2/2"
 date: 2024-02-14
 ---
 Weitere Informationen erhältst Du über den Link: <a href="https://pad.gwdg.de/H-dlBlKaS9-xqX0ZH8fqcw#">BAIN HedgeDoc</a>.
-Ich werde mich hier auf meine Erfahrungen konzentrieren. 
 
 **1 GitHub**
 - Timeout von Codespaces auf 240 Minuten erhöhen. Wurde gemacht.
