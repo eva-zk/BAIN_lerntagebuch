@@ -40,4 +40,4 @@ Es scheint ein fruchtloses Experiment zu sein, aber ich finde es toll, dass man 
 Wie Aischylos, der starb, weil ihm eine Schildkröte auf den Kopf fiel. Und viele der berühmten Autoren sind angeblich vor Lachen gestorben. Wer hätte das gedacht. Hoffentlich haben sie nicht über die arme Schildkröte gelacht.
 
 <img src="/BAIN_lerntagebuch/docs/assets/images//15_Screenshot_2024_06_6.png" alt="Screenshot Spass mit Open Refine">
-Scr
+ 
