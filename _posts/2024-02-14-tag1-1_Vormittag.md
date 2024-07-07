@@ -6,7 +6,7 @@ date: 2024-02-14
 Weitere Informationen erhältst Du über den Link: <a href="https://pad.gwdg.de/ReigBDtuQCWgjjLLdhBogg#">BAIN HedgeDoc</a>.
 Ich werde mich hier auf meine Erfahrungen konzentrieren. 
 
-**1) Organisation**
+**1 Organisation**
 - Termine, Fristen (Abgabe Tagesbuch mit Link 7.7.2024)	. 
 Ich bin sehr erfreut darüber. Zu Beginn meiner neuen Tätigkeit habe ich immer ein Tagebuch geführt. Es war ein grossartiges Lernmittel und half bei den Jahresberichten, die wir schreiben mussten.
 - Lerntagesbuch. Warum? Damit der Dozent sehen kann, wie wir gelernt haben, was und ob wir es verstanden haben. Es ist ratsam, regelmässig zu schreiben, damit er uns Feedback geben kann und wir am Ende nicht überfordert sind. Wir können die Beiträge korrigieren und nur die endgültige Version wird notiert. Wir können Literatur verwenden, müssen uns aber nicht an die wissenschaftliche Zitierweise halten. Die Verwendung von KI-Tools ist nicht verboten.
@@ -17,7 +17,7 @@ Ich bin sehr erfreut darüber. Zu Beginn meiner neuen Tätigkeit habe ich immer 
 - Alle Vorlesungen sind online, auch die letzte.
 - Vorstellungsrunde (Erfahrungen, Erwartungen).
 
-**2) GitHub**
+**2 GitHub**
 - vs GitLab (Konkurrenz)
 - Codespace (Cloud-basierte Entwicklungsumgebung)
 - Konto erstellen
