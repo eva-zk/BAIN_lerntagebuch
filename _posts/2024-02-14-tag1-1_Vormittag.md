@@ -4,7 +4,6 @@ date: 2024-02-14
 ---
 
 Weitere Informationen erhältst Du über den Link: <a href="https://pad.gwdg.de/ReigBDtuQCWgjjLLdhBogg#">BAIN HedgeDoc</a>.
-Ich werde mich hier auf meine Erfahrungen konzentrieren. 
 
 **1 Organisation**
 - Termine, Fristen (Abgabe Tagesbuch mit Link 7.7.2024)	. 
