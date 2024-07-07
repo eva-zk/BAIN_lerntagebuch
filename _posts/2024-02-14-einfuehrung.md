@@ -8,7 +8,7 @@ Was sind meine Erfahrungen als Bibliothekarin, Buchleserin, Studentin und meine 
 
 **Erfahrung der Buchleserin:** Benutzererfahrung mit Swisscovery.
 
-**Erfahrung als Studentin:** WINF (grundlegende IT-Prinzipien, die sich aus meiner Sicht als nicht so einfach oder grundlegend herausstellten), einige Erfahrungen mit HTML, CSS, Python, JavaScript, SQL. In FRONT haben wir auch GitLab mit gemischten Ergebnissen verwendet (Erstellung eines html+JavaScript basierten Spiels, Programmierung wurde von allen 4 Teammitgliedern durchgeführt).
+**Erfahrung als Studentin:** WINF (grundlegende IT-Prinzipien, die sich aus meiner Sicht als nicht so einfach oder grundlegend herausstellten), einige Erfahrungen mit HTML, CSS, Python, JavaScript, SQL. In FRONT haben wir auch GitLab mit gemischten Ergebnissen verwendet (Erstellung eines HTML+JavaScript basierten Spiels, Programmierung wurde von allen 4 Teammitgliedern durchgeführt).
 
 Was GitLab betrifft: Die grösste Herausforderung war die Arbeitsteilung. Da keiner von uns eine klare Vorstellung vom Ziel (Endprodukt=Spiel) oder von der Programmierung hatte, die notwendig war, um das Spiel zum Laufen zu bringen, war es schwierig, die Arbeit aufzuteilen. Wir hielten uns an die allgemeinen Grundsätze des Managements: Es ist besser, ein frühes Ziel zu haben und es immer wieder zu überarbeiten und zu verbessern, als gar kein Ziel zu haben.
 
