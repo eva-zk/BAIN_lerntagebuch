@@ -3,7 +3,7 @@ title: "Einheit 1: Technische Grundlagen 1/2 (Vormittag)"
 date: 2024-02-14
 ---
 
-Weitere Informationen erhältst du über den Link: <a href="https://pad.gwdg.de/ReigBDtuQCWgjjLLdhBogg#">BAIN HedgeDoc</a>
+Weitere Informationen erhältst du über den Link: <a href="https://pad.gwdg.de/ReigBDtuQCWgjjLLdhBogg#">BAIN HedgeDoc</a>.
 Ich werde mich hier auf meine Erfahrungen konzentrieren. 
 
 **1) Organisation**
@@ -38,4 +38,3 @@ Antwort: Dies wird im Laufe des Semesters geklärt werden. Es wird eine Liste er
 2) Da es mir leichter fällt, zu löschen als hinzuzufügen, wenn ich neue Informationen habe (Zeit, Erfahrung), und es einfacher ist, zu definieren, was wichtig und neu ist, wäre es in Ordnung, zu Beginn des Semesters längere Beiträge zu schreiben? Mit dem Versprechen, dass ich den "Weedwacker" regelmässig raushole?
 
 <sup>Bemerkung vom Ende des Semesters:</sup> _Es stellte sich heraus, dass dies nicht der beste Ansatz war. Nach der 5. Lektion habe ich mich so sehr in meinen Notizen und unnötigen Recherchen verloren, dass ich mit dem Tagebuch nicht mehr hinterherkam. Oder besser gesagt: Ich habe es privat gehalten, weil ich nicht wollte, dass jemand meine unfertige und wahrscheinlich auch fehlerhafte Schrift sieht._
-
