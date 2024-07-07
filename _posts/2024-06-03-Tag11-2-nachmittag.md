@@ -39,4 +39,5 @@ Zuerst importierten wir die Daten, dann begannen wir mit dem Abgleich (reconcili
 Es scheint ein fruchtloses Experiment zu sein, aber ich finde es toll, dass man z.B. Autoren nach beliebigen Eigenschaften/Merkmalen ordnen kann. Wie z.B. die Frisur. Ich könnte mir auch vorstellen, dies für eine zufällige Bibliotheksveranstaltung zu verwenden. Manchmal muss man etwas in Eile vorbereiten und unsere Bibliotheksbenutzer reagierten im Allgemeinen besser auf Veranstaltungen, die mehr waren als nur "berühmteste Schriftstellerinnen" ua. Ich kann mir vorstellen, dass eine Veranstaltung, bei der die Autoren nach der Art ihres Todes gruppiert werden, mit ein wenig Humor versehen, eine gute Möglichkeit wäre, Informationen einzubauen. 
 Wie Aischylos, der starb, weil ihm eine Schildkröte auf den Kopf fiel. Und viele der berühmten Autoren sind angeblich vor Lachen gestorben. Wer hätte das gedacht. Hoffentlich haben sie nicht über die arme Schildkröte gelacht.
 
-<img src="/BAIN_lerntagebuch/docs/assets/images/15_Screenshot_2024_06_6" alt="Screenshot Spass mit Open Refine">
+<img src="/BAIN_lerntagebuch/docs/assets/images//15_Screenshot_2024_06_6.png" alt="Screenshot Spass mit Open Refine">
+Scr
