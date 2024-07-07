@@ -23,21 +23,25 @@ RiC erlaubt, auch anderen Beziehungen zwischen Unterlagen verschiedener Beständ
 
 Ein weiterer Schritt, wie der Name schon sagt, offene Daten, die ihre Nutzbarkeit betonen. Denn es ist nicht unbedingt hilfreich, wenn sie nur verfügbar sind. 
 
-Das erinnert mich an ein Gespräch, das wir in einem der Kurse hatten, in dem wir darüber diskutierten, ob wir dafür oder dagegen sind, alle wissenschaftlichen Arbeiten kostenlos zur Verfügung zu stellen. Ich habe mich nur gefragt, ob das ausreicht. Wenn man:
+Das erinnert an eine Diskussion in einem anderen Kurs: Sind wir dafür oder dagegen, alle akademischen Texte kostenlos zur Verfügung zu stellen. Ich habe mich nur gefragt, ob das ausreicht. Wenn man:
 - nicht an "freie" Daten herankommt, weil man keine Möglichkeit hat, "einfach" online zu gehen und sie auf seinen Computer herunterzuladen;
 - aufgrund einer bestimmten Behinderung nicht lesen kann;
 - aufgrund einer Sprachbarriere nicht verstehen kann;
 - nicht fähig ist, sie zu verarbeiten, weil das zum Denken und Verstehen erforderliche Wissen fehlt;
-- und schliesslich kann man sich nicht entscheiden, was man lesen soll. Ich möchte lieber die richtigen Daten zur richtigen Zeit haben, als ständig alles zur Verfügung zu haben.
+- und schliesslich kann man sich nicht entscheiden, was man lesen soll/will/kann. Ich möchte lieber die richtigen Daten zur richtigen Zeit haben, als ständig alles zur Verfügung zu haben.
 
- Als ich las und die Keynotes von Rob Sanderson für 2018 hörte, war ich angenehm überrascht, dass sie sich mit Fragen des Vertrauens und der Nützlichkeit von Inhalten für bestimmte Gruppen/Typen von Menschen befassen (<a href=" https://linked.art/loud/">Quelle<a>).
+Als ich las und die Keynotes von Rob Sanderson für 2018 hörte, war ich angenehm überrascht, dass sie sich so tief mit Fragen des Vertrauens und der Nützlichkeit von Inhalten für bestimmte Gruppen/Typen von Menschen befassen (<a href=" https://linked.art/loud/">Quelle<a>).
 
 **OpenRefine und Wikidata**
 
 Zuerst importierten wir die Daten, dann begannen wir mit dem Abgleich (reconciliation). Die Anreichung war der dritte Schritt. 
-
-Es scheint ein fruchtloses Experiment zu sein, aber ich finde es toll, dass man z.B. Autoren nach beliebigen Eigenschaften/Merkmalen ordnen kann. Wie z.B. die Frisur. Ich könnte mir auch vorstellen, dies für eine zufällige Bibliotheksveranstaltung zu verwenden. Manchmal muss man etwas in Eile vorbereiten und unsere Bibliotheksbenutzer reagierten im Allgemeinen besser auf Veranstaltungen, die mehr waren als nur "berühmteste Schriftstellerinnen" ua. Ich kann mir vorstellen, dass eine Veranstaltung, bei der die Autoren nach der Art ihres Todes gruppiert werden, mit ein wenig Humor versehen, eine gute Möglichkeit wäre, Informationen einzubauen. 
-Wie Aischylos, der starb, weil ihm eine Schildkröte auf den Kopf fiel. Und viele der berühmten Autoren sind angeblich vor Lachen gestorben. Wer hätte das gedacht. Hoffentlich haben sie nicht über die arme Schildkröte gelacht.
+Mein Resultat: 
 
 <img src="/BAIN_lerntagebuch/docs/assets/images//15_Screenshot_2024_06_6.png" alt="Screenshot Spass mit Open Refine">
+
+Es scheint ein fruchtloses Experiment zu sein, aber ich finde es toll, dass man z.B. Autoren nach beliebigen Eigenschaften/Merkmalen ordnen kann. Wie z.B. die Frisur. Ich könnte mir auch vorstellen, dies für eine zufällige Bibliotheksveranstaltung zu verwenden. Manchmal muss man etwas in Eile vorbereiten und unsere Bibliotheksbenutzer reagierten im Allgemeinen besser auf Veranstaltungen, die mehr waren als nur "berühmteste Schriftstellerinnen". Ich kann mir vorstellen, dass eine Veranstaltung, bei der die Autoren nach der Art ihres Todes gruppiert werden, mit ein wenig Humor versehen, eine gute Möglichkeit wäre, Informationen einzubauen. 
+
+Wusstest Du das Aischylos starb, weil ihm eine Schildkröte auf den Kopf fiel? Und viele der berühmten Autoren sind angeblich vor Lachen gestorben. Wer hätte das gedacht. Hoffentlich haben sie nicht über die arme Schildkröte gelacht.
+
+
  
