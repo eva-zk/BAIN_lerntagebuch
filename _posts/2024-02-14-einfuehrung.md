@@ -4,7 +4,7 @@ date: 2024-02-14
 ---
 Was sind meine Erfahrungen als Bibliothekarin, Buchleserin, Studentin und meine Erwartungen an BAIN?
 
-**Erfahrung als Bibliothekarin:** 5 Jahre Arbeit in der grössten offenen Bibliothek in Ljubljana, Slowenien, als Bibliothekarin. Arbeit mit unglaublich alten dos-basierten Systemen für die Ausleihe und Rückgabe von Medien (alles nur über Befehle, Tastenkombinationen, Tastatur zugänglich) und einem nationalen Opac-System für die Recherche. Hilfe für unerfahrene Bibliotheksbenutzer (Kinder und Senioren) bei sehr grundlegenden Informationen (Computerbenutzung, Browsing, Scannen, Drucken ua.). Schwierigkeiten bei der Kommunikation mit dem IT-Personal, um unsere Fehler oder Systemfehler zu beheben
+**Erfahrung als Bibliothekarin:** 5 Jahre Arbeit in der grössten offenen Bibliothek in Ljubljana, Slowenien, als Bibliothekarin. Arbeit mit unglaublich alten dos-basierten Systemen für die Ausleihe und Rückgabe von Medien (alles nur über Befehle, Tastenkombinationen, Tastatur zugänglich) und einem nationalen OPAC für die Recherche. Hilfe für unerfahrene Bibliotheksbenutzer (Kinder und Senioren) bei sehr grundlegenden Informationen (Computerbenutzung, Browsing, Scannen, Drucken ua.). Schwierigkeiten bei der Kommunikation mit dem IT-Personal, um unsere Fehler oder Systemfehler zu beheben
 
 **Erfahrung der Buchleserin:** Benutzererfahrung mit Swisscovery.
 
@@ -18,4 +18,3 @@ Ich muss sagen, dass mir auch nach dem Ende des Semesters immer noch nicht klar 
 Den Mittelweg zwischen meinem grossen Enthusiasmus und meiner totalen mentalen Blockade & Angst zu finden, wenn ich mit einem neuen IT-Tool konfrontiert werde (insbesondere auf Software-Ebene).
 
 Bessere Kommunikation mit Mitarbeitern und Administratoren, die mehr oder weniger Wissen haben als ich (Probleme finden und lösen). In der Bibliothek gab es oft kein Dazwischen, wenn es um die Kommunikation mit dem IT-Team ging. Sie baten uns oft, einfach jedes Gerät, das Teil des Prozesses war, ein- und auszuschalten, wenn wir Probleme hatten. Wenn sich dadurch nichts änderte, sagten sie oft, wir kämen vorbei, wenn wir könnten. Ich habe versucht zu sehen, was sie danach taten, aber ich kann nicht sagen, dass ich viel dabei gelernt habe, und ich hatte das Gefühl, dass ihre Arbeit durch meine Fragen länger dauerte, was alle nervös machte, also hörte ich einfach auf zu fragen.
-
