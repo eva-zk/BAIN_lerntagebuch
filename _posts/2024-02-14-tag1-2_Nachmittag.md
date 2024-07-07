@@ -79,6 +79,6 @@ Es ist klar, dass dies nicht die richtige Art ist, GitHub zu nutzen, und ich kan
 
 Ich war auch etwas frustriert, weil ich die Änderungen auf der Website nicht erzwingen konnte. Ich habe einfach in den settings/pages Seitenansicht auf Aktualisieren geklickt, bis ich sagte, dass die letzte deployment "now" war, und dann das Tagebuch selbst aktualisiert, um zu sehen, ob das, was ich getan habe, eine Wirkung hatte. 
 
-Ich werde dies dem Lernprozess zuschreiben. Ich bin froh, dass ich dabei geblieben bin, denn dadurch habe ich eine einfache Möglichkeit entdeckt, Bilder zu meinem Tagebuch hinzuzufügen, die ich sicher auch in den folgenden Beiträgen verwenden kann.
+Alles werde ich dem Lernprozess zuschreiben. Ich bin froh, dass ich dabei geblieben bin, denn dadurch habe ich eine einfache Möglichkeit entdeckt, Bilder zu meinem Tagebuch hinzuzufügen, die ich sicher auch in den folgenden Beiträgen verwenden kann.
 
 
