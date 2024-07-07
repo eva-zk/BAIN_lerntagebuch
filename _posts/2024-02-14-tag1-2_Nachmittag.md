@@ -2,7 +2,7 @@
 title: "Einheit 2: Technische Grundlagen 2/2"
 date: 2024-02-14
 ---
-Weitere Informationen erhältst du über den Link: <a href="https://pad.gwdg.de/H-dlBlKaS9-xqX0ZH8fqcw#">BAIN HedgeDoc</a>
+Weitere Informationen erhältst Du über den Link: <a href="https://pad.gwdg.de/H-dlBlKaS9-xqX0ZH8fqcw#">BAIN HedgeDoc</a>.
 Ich werde mich hier auf meine Erfahrungen konzentrieren. 
 
 **1) GitHub**
@@ -59,7 +59,7 @@ Wie komme ich da raus?
 <img src="/BAIN_lerntagebuch/docs/assets/images/2_Screenshot_2024-02-20.png" alt="Screenshot im Text steckengeblieben">
 (^ steht für die Steuerungstaste)
 <br>**3**<br>
-Beim Lernen der Pythongrundlagen hatte ich immer Schwierigkeiten zu verstehen, wann Buchstaben als Beispiel verwendet werden und wann sie Teil eines Befehls sind. Ähnlich hier, kann ich nur NAME verwenden oder kann ich auch etwas anderes verwenden? Antwort: Ich kann, aber vergiss nicht, dass du bei der Verwendung von Nicht-Grossbuchstaben vorsichtig sein musst.
+Beim Lernen der Pythongrundlagen hatte ich immer Schwierigkeiten zu verstehen, wann Buchstaben als Beispiel verwendet werden und wann sie Teil eines Befehls sind. Ähnlich hier, kann ich nur NAME verwenden oder kann ich auch etwas anderes verwenden? Antwort: Ich kann, aber vergiss nicht, dass man bei der Verwendung von Nicht-Grossbuchstaben vorsichtig sein muss.
 <img src="/BAIN_lerntagebuch/docs/assets/images/1_Screenshot_2024-02-20.png" alt="Screenshot Echo Übung">
 
 **4)GitHub**
