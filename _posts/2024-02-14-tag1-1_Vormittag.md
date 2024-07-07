@@ -34,6 +34,6 @@ Antwort: Dies wird im Laufe des Semesters geklärt werden. Es wird eine Liste er
 
 <sup>Bemerkung vom Ende des Semesters:</sup> _Wir haben Einleitung, Abschluss, Übung und 10 weitere Themen._
    
-2) Da es mir leichter fällt, zu löschen als hinzuzufügen, wenn ich neue Informationen habe (Zeit, Erfahrung), und es einfacher ist, zu definieren, was wichtig und neu ist, wäre es in Ordnung, zu Beginn des Semesters längere Beiträge zu schreiben? Mit dem Versprechen, dass ich den "Weedwacker" regelmässig raushole?
+2) Da es mir leichter fällt, zu löschen als hinzuzufügen, wenn ich neue Informationen habe (Zeit, Erfahrung), und es einfacher ist, zu definieren, was wichtig und neu ist, wäre es in Ordnung, zu Beginn des Semesters längere Beiträge zu schreiben? Mit dem Versprechen, dass ich den "weedwacker" regelmässig raushole?
 
 <sup>Bemerkung vom Ende des Semesters:</sup> _Es stellte sich heraus, dass dies nicht der beste Ansatz war. Nach der 5. Lektion habe ich mich so sehr in meinen Notizen und unnötigen Recherchen verloren, dass ich mit dem Tagebuch nicht mehr hinterherkam. Oder besser gesagt: Ich habe es privat gehalten, weil ich nicht wollte, dass jemand meine unfertige und wahrscheinlich auch fehlerhafte Schrift sieht._
