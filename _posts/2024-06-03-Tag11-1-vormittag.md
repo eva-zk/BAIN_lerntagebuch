@@ -8,7 +8,7 @@ Weitere Informationen erhältst Du über den Link:
 **1 Gruppenarbeit Datenintegration**
 
 Wir importieren Daten in VuFind und beobachten, was passiert und wie die Ergebnisse aussehen. 
-Durch den Anbieter Digital Ocean wurde von snapshot VM erstellt und diese wurde für Gruppenarbeit bereit gemacht. Ich war ein Teil der Gruppe 3: mit June und Nina. 
+Durch den Anbieter Digital Ocean wurde VM erstellt und diese wurde für Gruppenarbeit bereit gemacht. Ich war ein Teil der Gruppe 3: mit June und Nina. 
 
 - Der Zugriff auf den Server erfolgte über protokol SSH.
 - Login, gegebener Befehl ssh root@ gefolgt von unserer Servernummer.
@@ -24,7 +24,7 @@ Wir haben Daten aus ArchivesSpace und DSpace importiert.
 
 <img src="/BAIN_lerntagebuch/docs/assets/images/14_Screenshot_2024_06_3.png" alt="VuFind">
 
-Der ganze Prozess war erstaunlich einfach. Ich weiss, dass wir nur winzige Steine auf riesige Gebäude setzen, aber mit ein paar Zeilen haben wir sozusagen eine neue Welt geschaffen.
+Ich weiss, dass wir nur winzige Steine auf riesige Gebäude setzen, aber mit ein paar Zeilen haben wir sozusagen eine neue Welt geschaffen.
 
 **2 Gruppenarbeit VuFind-Konfiguration**
 
@@ -47,6 +47,6 @@ Um Änderungen zu vermeiden, wenn Software aktualisiert wird, kann man Configura
 
 - Ex Libris mit Software Primo (auch bei Swisscovery) = technologischer Marktführer
 - SLP
-- Frage der Benutzerverfolgung. Punkt: man braucht alternative Systeme +. Gegen Monopol
+- Frage der Benutzerverfolgung. Punkt: man braucht alternative Systeme + gegen Monopol
 
 <sup>Bemerkung vom Ende des Semesters:</sup> _ Dies war die herausforderndste Vorlesung. Ich hatte Mühe, Notizen zu machen und zu beobachten, was der Dozent und die Klassenkameraden diskutierten und machten. Ich wollte meine Gruppe nicht im Stich lassen, also habe ich meine Notizen zur Seite gelegt. In der Pause und nach der Vorlesung habe ich versucht, Anpassungen meiner Notizen zu machen, aber sie waren leider immer noch unbrauchbar. All dies führte zu einem Tagebucheintrag, den ich am schlimmsten finde.
