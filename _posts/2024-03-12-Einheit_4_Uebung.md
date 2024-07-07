@@ -32,7 +32,7 @@ Ich habe auch versucht, die XML-Datei mit The Prudence Wayland-Smith Papers von 
 
 “PLEASE NOTE: For security reasons, uploads have been disabled on this site. If you would like to test uploads, we suggest you consider setting up a local testing environment, using our Vagrant box - more information can be found on our website in the Administrator's manual - look for "Using Vagrant.""
 (<a href="https://demo.accesstomemory.org/help">Quelle</a>)
-Ich vermute also, dass dies einfach nicht funktionieren soll, deswegen ist es schwierig, dies zu überprüfen/testen/anschauen.
+Ich vermute also, dass dies einfach nicht funktionieren soll, deswegen ist es schwierig, dies zu kommentieren.
 
 3) Nach ca. 20 Minuten Nutzung musste ich mich erneut anmelden. Es könnte daran liegen, dass die Verbindung unterbrochen wurde oder dass in diesem Moment Dinge gelöscht/neu angelegt wurden. Mein Eintrag wurde gelöscht, 2 andere, die vor meinem Eintrag erstellt wurden, wurden nicht gelöscht, was sehr interessant ist.
 
